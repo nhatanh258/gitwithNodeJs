@@ -18,6 +18,6 @@ function route(app) {
     //   console.log(req.body)
     //   res.send('chung toi da nhan duoc yeu cau cua ban ');
     // });
-};
+}
 
 module.exports = route;
